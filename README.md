@@ -6,7 +6,8 @@ Data was taken from sources such as blogs, news and twitter.
 Stupid Backoff algorithm was used to predict top 5 most likely words.  
 
 A brief summary of the folders in this repo.  
-<b>App Folder</b> : Files related to creating a shiny app  
+<b>Milestone Report</b> : Files related to Milestone report which was first assignment- exploring the data  
+<b>App</b> : Files related to creating a shiny app  
 <b>Presentation</b> : Files related to creating R presentation  
 <b>Scipts</b> : All code written for this app  
 
