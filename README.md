@@ -11,3 +11,4 @@ A brief summary of the folders in this repo.
 <b>Presentation</b> : Files related to creating R presentation  
 <b>Scipts</b> : All code written for this app  
 
+#### You can access the Shiny app from here : https://nidhim.shinyapps.io/WordPredictionApp/
